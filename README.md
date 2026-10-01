@@ -13,7 +13,9 @@ Defino qué debe hacer el sistema, lo construyo con IA (Claude Code), lo pruebo,
 - Mi plan: estudiar Ingeniería en Sistemas.
 
 ## Proyectos
-Estoy preparando versiones limpias de mis proyectos, sin datos reales, para publicarlas acá. El primero será TaskFlow, un organizador de tareas.
+- [TaskFlow](https://github.com/EDGUEes/taskflow): gestor de procesos y tareas recurrentes que funciona como app instalable y sin internet (PWA, JavaScript puro, sincronización opcional con Supabase).
+
+Voy a publicar más proyectos, siempre con datos de ejemplo.
 
 ## Contacto
 LinkedIn: https://www.linkedin.com/in/eduardo-guerra-dev
