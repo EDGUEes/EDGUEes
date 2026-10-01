@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Eduardo Guerra 👋
 
-<!--
-**EDGUEes/EDGUEes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollo sistemas web y automatizo procesos con IA (Claude Code), desde Guatemala City.
 
-Here are some ideas to get you started:
+## Qué hago
+Encuentro el problema que le quita tiempo a alguien en una oficina y le construyo un sistema que lo resuelva. En mi primer trabajo (2026) construí sistemas de inventarios, un OCR que registra facturas en libros contables y sistemas de control de cheques y de carnés.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cómo trabajo
+Defino qué debe hacer el sistema, lo construyo con IA (Claude Code), lo pruebo, lo corrijo con lo que me dicen quienes lo usan y lo mantengo funcionando.
+
+## Formación
+- Perito Contador con Orientación en Computación (2023–2025).
+- Mi plan: estudiar Ingeniería en Sistemas.
+
+## Proyectos
+Estoy preparando versiones limpias de mis proyectos, sin datos reales, para publicarlas acá. El primero será TaskFlow, un organizador de tareas.
+
+## Contacto
+LinkedIn: pegá acá tu link
