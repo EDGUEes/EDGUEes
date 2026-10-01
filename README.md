@@ -16,4 +16,4 @@ Defino qué debe hacer el sistema, lo construyo con IA (Claude Code), lo pruebo,
 Estoy preparando versiones limpias de mis proyectos, sin datos reales, para publicarlas acá. El primero será TaskFlow, un organizador de tareas.
 
 ## Contacto
-LinkedIn: www.linkedin.com/in/eduardo-guerra-dev
+LinkedIn: https://www.linkedin.com/in/eduardo-guerra-dev
